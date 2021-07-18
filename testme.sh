@@ -1,3 +1,6 @@
+norminette *.c
+echo -e "\n"
+echo -e "\n"
 
 make fclean && make && echo -e "\n"
 echo -e "result|<  <--- result from the program. (This symbol |< is to check for spaces)\n"
